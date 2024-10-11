@@ -1,4 +1,3 @@
-# GenAI-for-Image-Synthesis
 # 113-1 生成式影像合成
 * 教授：楊元福
 
