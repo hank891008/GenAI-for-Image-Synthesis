@@ -3,3 +3,4 @@
 
 ## 作業說明
 * HW1: AutoEncoder & VAE
+  * 100/100
